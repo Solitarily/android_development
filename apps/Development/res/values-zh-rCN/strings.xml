@@ -253,4 +253,5 @@
     <string name="cache_abuser">缓存测试</string>
     <string name="configuration">配置信息</string>
     <string name="applications_hardware_preferences">应用程序的硬件设置</string>
+    <string name="sms_tester">短信测试</string>
 </resources>

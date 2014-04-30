@@ -255,5 +255,6 @@
     <string name="cache_abuser">Cache Abuser</string>
     <string name="configuration">Configuration</string>
     <string name="applications_hardware_preferences">Applications Hardware Preferences</string>
+    <string name="sms_tester">SMS Tester</string>
 
 </resources>
